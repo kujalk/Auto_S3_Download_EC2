@@ -4,9 +4,7 @@ Download S3 objects uploaded at real time into EC instances
 Architecture
 -------------------
 
-
-
-
+![alt text](https://github.com/kujalk/Auto_S3_Download_EC2/edit/main/Architecture.PNG)
 
 Execution Methods
 -------------------
